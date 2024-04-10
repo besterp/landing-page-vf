@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/landing-page/static/css/main.eabbcf6c.css",
+    "main.js": "/landing-page/static/js/main.7b64ffdb.js",
+    "static/media/finance_consultancy.jpg": "/landing-page/static/media/finance_consultancy.4567731510986ddda0d9.jpg",
+    "static/media/besterp_somos.png": "/landing-page/static/media/besterp_somos.ae6e541dbd40ec059bb9.png",
+    "static/media/misionvf.png": "/landing-page/static/media/misionvf.814bd21425170722993a.png",
+    "static/media/visionvf.png": "/landing-page/static/media/visionvf.d042000fe985da9a3a50.png",
+    "static/media/besterp_componentes.png": "/landing-page/static/media/besterp_componentes.d3227f82fd6b216d6e43.png",
+    "static/media/modulo_infgerev7.png": "/landing-page/static/media/modulo_infgerev7.6edeece38586169b777c.png",
+    "static/media/jetbrains-mono-all-400-normal.woff": "/landing-page/static/media/jetbrains-mono-all-400-normal.8e08cd86133caec43c49.woff",
+    "static/media/phone.png": "/landing-page/static/media/phone.c339ff504121f060e736.png",
+    "static/media/BesterpLogo_bordeBlanco_3px.png": "/landing-page/static/media/BesterpLogo_bordeBlanco_3px.3058251f04fe1cd3f3c8.png",
+    "static/media/commitment.png": "/landing-page/static/media/commitment.0029847480f3fb12b29f.png",
+    "static/media/quality.png": "/landing-page/static/media/quality.2226c7f5f3fac1d055a9.png",
+    "static/media/bulb.png": "/landing-page/static/media/bulb.5024c067f020b94a3ba9.png",
+    "static/media/ImagotipoBesterp_sinBG_bordeBlanco_1px.png": "/landing-page/static/media/ImagotipoBesterp_sinBG_bordeBlanco_1px.81d66b314643e7ac3b06.png",
+    "static/media/experience.png": "/landing-page/static/media/experience.fd57cbe978833ee9a147.png",
+    "static/media/technology.png": "/landing-page/static/media/technology.3337842c7df045ff2223.png",
+    "static/media/map.png": "/landing-page/static/media/map.82056140ce3605dfbf34.png",
+    "static/media/jetbrains-mono-latin-400-normal.woff2": "/landing-page/static/media/jetbrains-mono-latin-400-normal.c3a23073096fe509111c.woff2",
+    "static/media/besterp_mentoring_orig.png": "/landing-page/static/media/besterp_mentoring_orig.8c8d52b045982c3b59a2.png",
+    "static/media/regulation.png": "/landing-page/static/media/regulation.96c7f41f14bb211b826f.png",
+    "static/media/maintenance_1.svg": "/landing-page/static/media/maintenance_1.4ef8c7592a4944731abfd899d7f6937b.svg",
+    "static/media/email_log.png": "/landing-page/static/media/email_log.b1baa59fa533030533f2.png",
+    "static/media/jetbrains-mono-latin-ext-400-normal.woff2": "/landing-page/static/media/jetbrains-mono-latin-ext-400-normal.fd0cdc4e99adb9f941ff.woff2",
+    "static/media/jetbrains-mono-cyrillic-400-normal.woff2": "/landing-page/static/media/jetbrains-mono-cyrillic-400-normal.d17154e5ab21e9482fe1.woff2",
+    "static/media/jetbrains-mono-greek-400-normal.woff2": "/landing-page/static/media/jetbrains-mono-greek-400-normal.6abf1302c85207bff19d.woff2",
+    "static/media/jetbrains-mono-vietnamese-400-normal.woff2": "/landing-page/static/media/jetbrains-mono-vietnamese-400-normal.d340e22dddcd5d92a750.woff2",
+    "static/media/jetbrains-mono-cyrillic-ext-400-normal.woff2": "/landing-page/static/media/jetbrains-mono-cyrillic-ext-400-normal.ca70a8edb5bb0f8600ef.woff2",
+    "index.html": "/landing-page/index.html",
+    "main.eabbcf6c.css.map": "/landing-page/static/css/main.eabbcf6c.css.map",
+    "main.7b64ffdb.js.map": "/landing-page/static/js/main.7b64ffdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eabbcf6c.css",
+    "static/js/main.7b64ffdb.js"
+  ]
+}
