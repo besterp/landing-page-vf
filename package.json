@@ -1,7 +1,7 @@
 {
   "name": "landing-page-vf",
   "version": "0.1.0",
-  "homepage": "https://besterp.github.io/landing-page-vf",
+  "homepage": "https://besterp.github.io/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
